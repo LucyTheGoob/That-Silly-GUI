@@ -1,0 +1,10 @@
+D:\C Sharp Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+D:\C Sharp Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+D:\C Sharp Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+D:\C Sharp Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\C Sharp Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Silly.resources
+D:\C Sharp Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\C Sharp Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\C Sharp Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\C Sharp Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+D:\C Sharp Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
