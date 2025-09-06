@@ -53,7 +53,7 @@ namespace WindowsFormsApp1
 
         private void button6_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://www.youtube.com/@TheSillyHaxor");
+            System.Diagnostics.Process.Start("https://www.youtube.com/@L-U-C-Y-THE-SILLY");
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -121,4 +121,5 @@ namespace WindowsFormsApp1
         }
     }
 }
+
 
